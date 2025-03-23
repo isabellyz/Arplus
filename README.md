@@ -7,8 +7,8 @@ Este repositório contém o código fonte de um website desenvolvido para a **Ar
 - **HTML**: Estrutura básica do conteúdo da página;
 - **CSS**: Estilização do layout, incluindo detalhes como cores, fontes e efeitos visuais;
 - **Bootstrap**: Framework CSS utilizado para garantir a responsividade e uma estrutura de layout limpa e organizada;
-- **Hover Effects**: Efeitos de hover nas imagens para interação visual;
-- **Design Minimalista**: Foco na simplicidade, com layout limpo e fácil navegação.
+- **Netlify**: Hospedagem do site.
+
 
 ## Funcionalidades
 
